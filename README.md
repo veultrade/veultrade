@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/veultrade/veultrade/main/assets/banner.png" alt="Veul: swap any token, get paid back in stocks" width="100%"></p>
+<p align="center"><a href="https://veul.trade"><img src="https://raw.githubusercontent.com/veultrade/veultrade/main/assets/banner.png" alt="Veul: swap any token, get paid back in stocks" width="100%"></a></p>
 
 <p align="center">
 <img alt="network" src="https://img.shields.io/badge/network-Robinhood%20Chain-3aa0db?style=flat-square">
@@ -17,10 +17,14 @@ fee is checked on chain.
 
 **Preview.** Real swaps are open to the team wallet only while the launch checks run. Not available to US persons.
 
+## Use it
+
+The web app at [veul.trade](https://veul.trade/app). Log in with email, Google or a wallet, pick the stock you want back, and swap.
+
 ## Open source
 
 | Repository | What |
 |---|---|
 | [**veul**](https://github.com/veultrade/veul) | Everything that runs Veul: the site and app, swap building on Uniswap's Universal Router, the verified payback ledger, and the chain tools (Apache-2.0) |
 
-<p align="center"><sub>issues go to the repository · memecoins can lose all of their value · not financial advice · not affiliated with Robinhood</sub></p>
+<p align="center"><sub><a href="https://veul.trade">Website</a> · issues go to the repository · memecoins can lose all of their value · not financial advice · not affiliated with Robinhood</sub></p>
